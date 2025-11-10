@@ -1,3 +1,3 @@
 # demo
 learning git hub <br>
-Author- Harshit Thakur
+Author- Harshit Thakur(vs code)
